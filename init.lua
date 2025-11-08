@@ -1,0 +1,7 @@
+require('config.options')
+require('config.keybinds')
+require('config.lazy')
+-- require('plugins')
+-- require('mason-config')
+-- require('gopls')
+-- require('code-completion')
